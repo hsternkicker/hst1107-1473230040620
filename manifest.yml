@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: hst1107
+  host: hst1107
+  disk_quota: 1024M
